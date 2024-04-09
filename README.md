@@ -1,2 +1,2 @@
-# Svetlana-Grigoreva-QA.github.io
+# CV
 Сайт визитка на HTML и CSS
